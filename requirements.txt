@@ -77,3 +77,4 @@ xlrd==1.2.0
 XlsxWriter==3.1.0
 yarl==1.9.1
 zipp==3.15.0
+python-3.11.4
